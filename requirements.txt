@@ -2,3 +2,4 @@ Django==1.11.1
 python-decouple==3.0
 pytz==2017.2
 whitenoise==3.3.0
+django-bootstrap-form==3.2.1
